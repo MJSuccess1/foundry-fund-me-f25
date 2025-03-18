@@ -64,3 +64,10 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+# About
+
+This is a crowd sourcing app!
+
+# Getting started
+
